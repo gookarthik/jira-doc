@@ -1,0 +1,121 @@
+User default setting    and    System Dashboard
+================================================
+- Full stop => to find the adminstative setting
+- User default setting
+- System Dashboard
+	Can edit layout
+	Can edit gadget   - Days remaining in the sprint
+					  - Assigned to me
+					  - Issue in progress
+
+
+
+How to Change JIRA Look and Feel
+===============================
+
+.
+Search for 'Look and feel'	
+  - To change company logo
+  - Can edit Site Title
+  - Fav icon
+  - Day and time format
+
+
+Audit Logging and Troubleshooting
+=================================
+- Information about each user ad his connectivity with projects
+
+Update General Configuration
+============================
+- Can edit Application name
+- Can edit Email from
+- voting
+- watching  etc..
+
+
+Atlasian Croud
+================
+- Can add users from Active directory or LDAP
+- Can give permission
+- Later to integrate with JIRA
+
+Manage Users
+============
+- Go to User Management
+- Can manage user to reset password
+- Can Directly login into another user account without their password. and we can help them 
+- Can give application[JIRA] access
+
+Manage Groups
+============
+- Creating group
+- Adding users into the group
+- "Bulk edit group member" = With this we can give JIRA software access by adding other groups into JIRA software group
+
+
+Global Permissions
+=================
+- Can give access to any group with next gen project, share dashboard, Manage Group filters
+
+
+To Create New Project
+=====================
+- Scrum, Kanban projects
+- Project settings = to assign the Project lead
+
+
+Issue Type
+===========
+- Story
+- Bug
+- Epic
+- Task
+- Sub-task
+
+Screen
+======
+
+Fields
+======
+
+Edit Jira Workflow
+=================
+
+Customise Workflow
+=================
+- Cog wheel -> Issues-> Click on Workflow. Then Add work flow
+how to add linked status in jira
+- Cog Icon  > Issues > Find  Statuses 
+
+
+To Configure Fields
+=====================
+
+
+To Custom Fields
+================
+- While creating Issue, we get the custom fields
+
+Permission Scheme
+=================
+- We can ristrict to create issue, assign issue etc.. with this and attaching to any project
+
+Permissions Helper
+=================
+- Test the user has ristricted permission or not
+
+
+Change Default Assignee
+======================
+Project Setting -> Details -> Default Assignee
+
+To Create Project Roles
+=======================
+- First to create project role then can attach with project scheme
+- Group = is for global permission. Project role is for project
+
+To Create New Issue Type
+========================
+- Issue Type -> create issue -> Then add created issue with project 
+
+ 
